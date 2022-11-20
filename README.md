@@ -1,5 +1,5 @@
 <a href="#" target="_blank">
-  <img src="svg/nuvita.svg" width="1200" alt="trungquandev-official" />
+  <img src="svg/nuvita.svg" width="1200" alt="nuvita-readme" />
 </a>
 
 <p> <br>
