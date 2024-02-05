@@ -6,7 +6,7 @@
 👋 Hi, I’m @nuvita97 <br>
 👀 I’m interested in Data Science and IT Technology <br>
 🌱 I’m currently learning Data Science & Computer Science <br>
-💞️ I’m looking to collaborate as a Data Engineer/Data Scientist <br>
+💞️ I’m looking to collaborate as an ML Engineer or Data Engineer <br>
 📫 How to reach me: https://www.linkedin.com/in/vietthai2303 <br> 
 <br>
 --> CHECK MY PORTFOLIO AT: https://nuvita97.github.io <br>
